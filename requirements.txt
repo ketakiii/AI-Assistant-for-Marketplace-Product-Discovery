@@ -1,0 +1,5 @@
+faker
+openai
+pandas
+numpy
+requests
