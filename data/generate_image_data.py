@@ -27,7 +27,7 @@ def safe_prompt(item):
     return f"Generate a high-quality product photo of a {condition} {category} item that someone might be selling on a marketplace."
 
 # Generate an image using OpenAI's DALL-E
-openai.api_key = "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"
+openai.api_key = ""
 
 
 for item in data[468:]:
